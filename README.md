@@ -1,2 +1,0 @@
-# Selena
-Code for Selena
